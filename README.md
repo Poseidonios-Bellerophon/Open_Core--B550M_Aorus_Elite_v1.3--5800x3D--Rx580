@@ -1,0 +1,1 @@
+# Ryzentosh_B550M_Aorus_Elite-v1.0_5800x3D_Rx580-4gb
