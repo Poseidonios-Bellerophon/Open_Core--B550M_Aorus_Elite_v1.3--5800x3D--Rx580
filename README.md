@@ -1,5 +1,5 @@
 # Ryzentosh_B550M_Aorus_Elite-v1.0_5800x3D_Rx580-4gb
-This is Ryzentosh EFI specs:
+This contains a Ryzentosh EFI systems with those specs:
 B500m_aorus_elite-v1.3
 5800x3D
 Rx580_4gb
