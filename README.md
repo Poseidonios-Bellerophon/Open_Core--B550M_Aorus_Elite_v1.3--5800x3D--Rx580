@@ -3,13 +3,13 @@
 
 This contains a Ryzentosh EFI system with those specs:
 
-##B500m_aorus_elite-v1.3
+# MOBO ## B500m_aorus_elite-v1.3
 
-##5800x3D
+# CPU ## 5800x3D
 
-##Rx580_4gb
+# GPU ## Rx580
 
-The Bootloader/EFi works for SONOMA and SEQUOIA 
+The Bootloader/EFI works for both SONOMA and SEQUOIA 
 
 On Sonoma (The Sleep_mode doesn't work but everything else such as the wifi/bluetooth/audio etc works)
 
