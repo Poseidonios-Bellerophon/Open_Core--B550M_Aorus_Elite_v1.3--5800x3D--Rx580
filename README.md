@@ -1,5 +1,5 @@
-# Ryzentosh_B550M_Aorus_Elite-v1.3_5800x3D_Rx580-v0.0.1
-First release, September the 30th
+# -v0.0.1
+# First release, September the 30th
 
 This contains a Ryzentosh EFI system with those specs:
 
