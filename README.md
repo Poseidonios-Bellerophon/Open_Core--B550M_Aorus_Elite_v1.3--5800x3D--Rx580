@@ -1,3 +1,7 @@
+# -v0.0.2
+# Second release, Octomber the 16th
+same problems as the prviouse release (v0.0.1)
+
 # -v0.0.1
 # First release, September the 30th
 
