@@ -1,3 +1,7 @@
+# -v0.0.3
+# Third release, March the 10th
+The only problem here is the Sleep Function 
+
 # -v0.0.2
 # Second release, Octomber the 16th
 same problems as the prviouse release (v0.0.1)
